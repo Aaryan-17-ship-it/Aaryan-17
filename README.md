@@ -3,7 +3,7 @@ Topic:-Aaryan Profile
 <br>
 Author:-Aaryan Jha 
 <br>
-# Hi there, I'm [Aaryan Jha] 👋
+# Hi there, I'm Aaryan Jha 👋
 <br>
 ### 🎓 Academic Profile
 <br>
