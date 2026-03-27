@@ -5,7 +5,6 @@ Author:-Aaryan Jha
 <br>
 # Hi there, I'm [Aaryan Jha] 👋
 <br>
-<br>
 ### 🎓 Academic Profile
 <br>
 * **Branch:** Computer Science & Engineering
